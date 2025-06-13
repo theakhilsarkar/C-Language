@@ -1,6 +1,6 @@
 
 
-# 🧠 C Language Notes – Array Manipulation & Update 🚀
+# 🧠 Array Manipulation & Update 🚀
 
 
 
