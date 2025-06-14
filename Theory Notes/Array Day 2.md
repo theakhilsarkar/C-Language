@@ -1,8 +1,4 @@
-
-
 # 🧠 Array Manipulation & Update 🚀
-
-
 
 ## 🔹 Quick Recap: Array Basics
 
